@@ -25,4 +25,27 @@ It will be focused 100% on the practical aspects, easy to use and with reference
 
 This script pretends to be the first of a series where we provide a toolbox over the first steps on asset comparison analysis and other common topics what you can read on What's comming next section.
 
+## Data Retreival & Cleasing
+
+Automated data retreival for the asset to observe and visualization on metrics such (Volatility - Rolling Volatility - Logarithmic Returns - Closing Price).
+
+![](img/fig_1.png)
+
+## Scatter Matrix
+
+To facilitate the visualization of correlations in a graphic manner over the asset required.
+
+![](img/fig_2.png)
+
+## Rolling / Static Correlation
+
+To determinate how this is changing over time and what is the current scenario.
+
+![](img/fig_3.png)
+
+## Introduction to Regression Analysis
+
+With the idea of explore deeper this feature on next stages.
+
+![](img/fig_4.png)
 
