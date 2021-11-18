@@ -25,3 +25,4 @@ It will be focused 100% on the practical aspects, easy to use and with reference
 
 This script pretends to be the first of a series where we provide a toolbox over the first steps on asset comparison analysis and other common topics what you can read on What's comming next section.
 
+
